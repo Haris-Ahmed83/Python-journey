@@ -2,22 +2,22 @@
 
 ## Description
 
-[Brief description of the project]
+A brief description of the project.
 
 ## Features
 
-* [Feature 1]
-* [Feature 2]
-* [Feature 3]
+- Feature 1
+- Feature 2
+- Feature 3
 
 ## Technologies Used
 
-* Python
-* [Any specific libraries or frameworks]
+- Python 3
 
 ## What I Learned
 
-[Key takeaways or new concepts learned]
+- Key takeaway 1
+- Key takeaway 2
 
 ## How to Run
 
@@ -29,15 +29,11 @@
    ```bash
    cd Python-journey/Day-21-Task-Scheduler-Automation
    ```
-3. Install dependencies (if any):
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the main script:
+3. Run the script:
    ```bash
    python main.py
    ```
 
 ## Screenshot
 
-[Add screenshots or GIFs here]
+![Screenshot](placeholder.png)

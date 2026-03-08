@@ -1,4 +1,4 @@
-# E-commerce Backend System
+# File Encryption & Decryption Tool
 
 ## Description
 
@@ -27,7 +27,7 @@ A brief description of the project.
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Python-journey/Day-28-E-commerce-Backend-System
+   cd Python-journey/Day-03-File-Encryption-and-Decryption-Tool
    ```
 3. Run the script:
    ```bash
